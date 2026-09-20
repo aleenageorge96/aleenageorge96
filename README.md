@@ -38,13 +38,13 @@ The samples show how I approach documentation planning, information architecture
 
 | Sample | Description |
 |---|---|
-| [Command Reference Manual](samples/command-reference-manual-sample.md) | Command reference manual sample |
-| [API Documentation](samples/api-documentation-sample.md) | REST API reference sample |
-| [Maintenance Procedure](samples/asml-maintenance-procedures-sample.md) | Installation procedure sample |
-| [User Guide](samples/user-guide-sample.md) | User guide sample |
-| [Release Notes](samples/release-notes-sample.md) | Release notes sample |
-| [Markdown Cheatsheet](samples/markdown-style-guide-sample.md) | Markdown rules |
-| [DITA Topic Types](samples/dita-topic-types-sample.md) | Dita topics |
+| [Command Reference Manual](https://github.com/aleenageorge96/technical-writing-portfolio/blob/main/samples/command-reference-manual-sample.md) | Command reference manual sample |
+| [API Documentation](https://github.com/aleenageorge96/technical-writing-portfolio/blob/main/samples/api-documentation-sample.md) | REST API reference sample |
+| [Maintenance Procedure](https://github.com/aleenageorge96/technical-writing-portfolio/blob/main/samples/asml-maintenance-procedures-sample.md) | Installation procedure sample |
+| [User Guide](https://github.com/aleenageorge96/technical-writing-portfolio/blob/main/samples/user-guide-sample.md) | User guide sample |
+| [Release Notes](https://github.com/aleenageorge96/technical-writing-portfolio/blob/main/samples/release-notes-sample.md) | Release notes sample |
+| [Markdown Cheatsheet](https://github.com/aleenageorge96/technical-writing-portfolio/blob/main/samples/markdown-style-guide-sample.md) | Markdown rules |
+| [DITA Topic Types](https://github.com/aleenageorge96/technical-writing-portfolio/blob/main/samples/dita-topic-types-sample.md) | Dita topics |
 
 ---
 
