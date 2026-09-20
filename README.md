@@ -6,14 +6,6 @@
 
 ---
 
-# Aleena George — Technical Publications Portfolio
-
-**Technical Publications Engineer | EDA & Semiconductor Documentation | DITA XML | Structured Authoring**
-
-📍 Ernakulam, Kerala, India · ✉️ galeena1996@gmail.com · [LinkedIn](https://linkedin.com/in/aleena-george-a407b0165)
-
----
-
 ## Technical Writing Portfolio
 
 Welcome to my technical writing portfolio.
